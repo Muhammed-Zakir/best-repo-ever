@@ -1,3 +1,3 @@
 # best-repo-ever
 
-# I made a change in here
+# Testing Merge Conflict - Change is coming from Branch 1 at Line 3
